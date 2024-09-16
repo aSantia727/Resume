@@ -1,0 +1,124 @@
+
+body{
+    background-color: darkgrey;
+    background-image: url(resources/paperBackground.png);
+}
+
+#section1a{
+    display: flex;
+    border: 5px black;
+    border-style: dashed dashed solid solid;
+    background-color: rgba(0, 0, 0, 30%);
+    height: auto;
+    border-radius: 10px;
+    text-align: left;
+    width: 60;
+    padding: 5px;
+    color: aliceblue;
+}
+
+#mememe{
+    width: 60%;
+    display: flex;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+#id1{
+    padding: 15px;
+}
+
+img{
+        width: 180px;
+        border-radius: 10px;
+}
+
+#id2{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+#name{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#job{
+    font-size: 14px;
+}
+
+#contactMe{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: aliceblue;
+    border: 20px;
+    border-color: black;
+    text-align: left;
+    padding: 15px;
+}
+.info{
+    font-weight: normal;
+}
+
+#section1b{
+    border: 5px black;
+    border-style: dashed dashed solid solid;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 30%);
+    margin: 10px;
+    padding: 5px 15px;
+    color:aliceblue;
+}
+
+#bod{
+    display: flex;
+    margin-top: 20px;
+}
+
+#bod1a{
+    border: 5px black;
+    border-style: dashed dashed solid solid;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 30%);
+    margin-right: 10px;
+    color:aliceblue;
+    height: auto;
+    width: 70%;
+    text-align: center;
+    font-size: large;
+    padding: 15px;
+
+}
+
+#bod1b{
+    border: 5px black;
+    border-style: dashed dashed solid solid;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 30%);
+    padding: 5px 15px;
+    color:aliceblue;
+    height: auto;
+    width: 30%;
+}
+
+#topic{
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.subTopic{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-size: large;
+    margin-top: 20px;
+}
+
+.info{
+    font-size: small;
+}
