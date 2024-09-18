@@ -1,0 +1,196 @@
+
+body{
+    text-align: center;
+    width: 940px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    height: 65px;
+    background-color: #000033;
+}
+
+.nav-link{
+    color: aliceblue;
+    margin-right: 20px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.navbar-nav{
+    text-align: end;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header-photo-name{
+    height: 400px;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+    color: white;
+    background-image: url(./laptop_aaron\ is\ great.jpg);
+}
+
+.name{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: black;
+    bottom: 140px;
+    font-size: 50px;
+    left: 120px;
+}
+
+.job{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: black;
+    bottom: 120px;
+    font-size: 25px;
+    left: 120px;   
+}
+
+img{
+    width: 300px;
+}
+
+.profile-text{
+    font-size: 20px;
+    text-align: center;
+}
+
+.profile-aboutme{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.profile-section{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.gallary{
+    background-color: #f5f5f5;
+}
+
+
+.my-projects{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.car{
+    border: 1px solid black;
+}
+
+.form{
+    background-color: white;
+}
+
+.Contact-me{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formBorder{
+    width: 500px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #f5f5f5;
+    border: 3px solid black;
+    margin-bottom: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nameForm{
+    margin-top: 25px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 30px;
+    border: none;
+}
+
+.emailForm{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 30px;
+    border: none;
+}
+
+.messageForm{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 200px;
+    border: none;
+}
+.sendForm{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 40px;
+    background-color: #000033;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: small;
+}
+
+.footer{
+    height: 55px;
+    background-color: #000033;
+}
+
+.linkedin{
+    height: 30px;
+    width: 30px;
+    margin-top: 3px;
+}
+
+.github{
+    height: 30px;
+    width: 30px;
+    color: white;
+}
+
+.copyRight{
+    color: white;
+    margin-bottom: 10px;
+    font-size: xx-small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
